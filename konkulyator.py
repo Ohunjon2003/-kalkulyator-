@@ -36,7 +36,7 @@ for i in range(100):
 
 
     else:
-        print("Bunday habar yoq.Qayta kiriting")
+        print("Bunday habar yoq. Qayta kiriting!!!")
         continue
 
     print(f"{a} {belgi} {b} = {natija}")
